@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Egor
 - 👀 I’m interested in Data Science and Machine Learning Jobs
-- 📫 How to reach me https://www.linkedin.com/in/petrov-egor-yurievich/ :)
+- 📫 How to reach me https://www.linkedin.com/in/egor-petrov-680748247/ :)
 
 <!---
 NewtoIBM/NewtoIBM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
